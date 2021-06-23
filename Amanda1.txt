@@ -1,2 +1,4 @@
 Teste
 Aula de GIT
+Teste de conflito
+
