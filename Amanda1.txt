@@ -1,3 +1,4 @@
 PRIMEIRA LINHA
 Teste
 ÚLTIMA LINHA
+Teste de conflito
