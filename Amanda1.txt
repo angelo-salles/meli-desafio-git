@@ -1,6 +1,7 @@
 PRIMEIRA LINHA
 Teste
 Bem vinda ao Meli Amanda!
+Obrigada!
 Aula de GIT
 ÚLTIMA LINHA
 Teste de conflito
